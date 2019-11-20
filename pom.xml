@@ -13,7 +13,7 @@
 		<jdk.version>1.8</jdk.version>
 		<mongo-java-driver.version>3.0.2</mongo-java-driver.version>
 		<spring-data-mongo.version>1.4.2.RELEASE</spring-data-mongo.version>
-		<spring-data-commons.version>1.7.2.RELEASE</spring-data-commons.version>
+		<spring-data-commons.version>1.13.13.RELEASE</spring-data-commons.version>
 		<jstl.version>1.2</jstl.version>
 		<jackson.version>2.5.3</jackson.version>
 	</properties>
